@@ -254,7 +254,7 @@ export const education = [
     school: "B. P. Poddar Institute of Management & Technology, Kolkata",
     date: "Sep 2021 - Jun 2025",
     grade: "8.39 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Information Technology at B. P. Poddar Institute of Management & Technology, Kolkata. I have completed 7 semesters and have a CGPA of 8.39. I have knowledge about Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Cyber Security, Cloud Computing and I am working on final year project : my project is BlockChain SmartContract. ",
+    desc: "I am currently pursuing a Bachelor's degree in Information Technology at B. P. Poddar Institute of Management & Technology, Kolkata. I have completed 7 semester and have a CGPA of 8.34 upto 7 semester. I have knowledge about Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Cyber Security, Cloud Computing and My Final Year Project: Smart Contract Vulnerability Detection Using Static Analysis Tools (Conducted a comparative analysis of Smart contracts using multiple static analysis tools, including Oyente and Slither, along with 2-3 additional tools, to evaluate their effectiveness in identifying security flaws. Assessed performance metrics to determine the most efficient tool for vulnerability detection). ",
     degree: "Bachelor of Technology - BTech, Information Technology",
   },
   {
